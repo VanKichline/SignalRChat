@@ -1,6 +1,14 @@
 ﻿.container {
-    background-color: whitesmoke;
-    border: thin solid gray;
+    /*background-color: whitesmoke;
+    border: thin solid gray;*/
     padding: 20px;
     margin: 20px;
+}
+
+#message {
+    width: 24em;
+}
+
+li {
+    list-style: none;
 }
